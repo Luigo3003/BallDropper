@@ -17,8 +17,9 @@ public class GameManager : MonoBehaviour
         }
 
         _scoreText.text = CurrentScore.ToString("0");
-        //Time.timeScale = 0f;
+        Time.timeScale = 0f;
     }
+
 
 
     public void IncreaseScore()
