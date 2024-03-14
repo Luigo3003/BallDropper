@@ -3,12 +3,12 @@
     "maps": [
         {
             "name": "PlayerMouse",
-            "id": "e5ade5e4-0da4-4dd4-9433-0288cc58df12",
+            "id": "82349d62-e5f3-46c3-b2c3-908fb49eb562",
             "actions": [
                 {
                     "name": "LeftClick",
                     "type": "Button",
-                    "id": "009be71f-ea6d-4c89-b409-a6bcbd52566d",
+                    "id": "f0914f6f-2614-4aef-a2e6-d3af4d7acfb6",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -18,7 +18,7 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "0b90d4da-ae5c-4a1e-98e0-b0c1ea8a4dbc",
+                    "id": "5ef4a5c9-3b6f-479f-8b59-b99fc052c56d",
                     "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
